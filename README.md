@@ -1,0 +1,2 @@
+# HKEventBus
+NSNotification convenient wrapper
